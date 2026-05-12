@@ -19,8 +19,7 @@ SASTRA Deemed University | B.Tech, Robotics & Artificial Intelligence | Class of
 - Programming: Python, C/C++, Arduino, Linux shell scripting, JSON, Git
 - Robotics & Embedded: ROS 2, robotics controls, mobile robots, IR sensors, encoders, motor drivers, Raspberry Pi 5, Raspberry Pi Zero 2 W, Pi Camera, sensor/actuator interfacing, hardware debugging
 - AI & Computer Vision: OpenCV, YOLOv8, Ultralytics, TensorFlow/Keras, CLIP, BLIP, Hugging Face Transformers, image classification, object detection, scene captioning
-- Software & Web: FastAPI, Next.js, Tkinter, Streamlit, REST/JSON APIs, VS Code, Ubuntu 24.04
-- Tools: CoppeliaSim, Fusion 360, EasyEDA/KiCad basics
+- Tools & OS: VS Code, Ubuntu 24.04, CoppeliaSim, Fusion 360, EasyEDA/KiCad basics
 
 ## EXPERIENCE
 
