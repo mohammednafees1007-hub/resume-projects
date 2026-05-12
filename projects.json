@@ -1,0 +1,69 @@
+{
+  "owner": {
+    "name": "Mohammed Nafees H",
+    "github": "https://github.com/mohammednafees1007-hub",
+    "linkedin": "https://www.linkedin.com/in/mohammed-nafees-h-7b3377306"
+  },
+  "resume_strategy": {
+    "default_selection": "impact-first",
+    "max_projects_on_resume": 5,
+    "latest_resume": "resumes/Mohammed_Nafees_H_Resume.pdf"
+  },
+  "projects": [
+    {
+      "name": "Hadi Al Hajatron",
+      "repo_url": "https://github.com/mohammednafees1007-hub/Hadi-Al-Hajatron",
+      "category": ["robotics", "navigation", "embedded"],
+      "tech_stack": ["Arduino", "Python", "Tkinter", "IR sensing", "encoders", "A* path planning"],
+      "impact_level": "goat",
+      "resume_priority": 1,
+      "status": "completed public project",
+      "short_description": "Arduino and Python grid-navigation robot with live mapping, frontier exploration, obstacle sensing, saved map output, and A* route planning.",
+      "resume_bullet": "Built a grid-navigation robot system with live mapping, frontier exploration, IR obstacle sensing, encoder-based movement, saved map output, and A* route planning."
+    },
+    {
+      "name": "FruitVision AI - Fruit Quality Detector for SMS",
+      "repo_url": "https://github.com/mohammednafees1007-hub/fruit-quality-detector-for-sms",
+      "category": ["computer vision", "machine learning", "web app"],
+      "tech_stack": ["FastAPI", "YOLOv8x", "Keras", "CLIP", "Next.js"],
+      "impact_level": "goat",
+      "resume_priority": 2,
+      "status": "completed public project",
+      "short_description": "Quality-first fruit grading website that predicts Fresh/Adulterant/Rotten quality, maps A/B/C grades, and displays annotated results.",
+      "resume_bullet": "Built a quality-first fruit grading website that analyzes upload or camera images, predicts Fresh/Adulterant/Rotten quality, maps A/B/C grades, and displays annotated results."
+    },
+    {
+      "name": "AI Image Analyzer",
+      "repo_url": "https://github.com/mohammednafees1007-hub/ai-image-analyzer",
+      "category": ["computer vision", "backend", "AI"],
+      "tech_stack": ["Python", "YOLOv8", "OpenCV", "BLIP", "Transformers"],
+      "impact_level": "goat",
+      "resume_priority": 3,
+      "status": "backend module for larger Visage project",
+      "short_description": "Backend image-analysis pipeline for the larger Visage project, combining object detection, privacy-safe face tokens, scene captions, and JSON output.",
+      "resume_bullet": "Built the backend image-analysis pipeline for a larger Visage project, combining object detection, privacy-safe face tokens, BLIP scene captions, and clean JSON output for app integration."
+    },
+    {
+      "name": "Quadruped Robot",
+      "repo_url": null,
+      "category": ["robotics", "controls", "kinematics"],
+      "tech_stack": ["Inverse kinematics", "robotics controls", "embedded integration"],
+      "impact_level": "strong",
+      "resume_priority": 4,
+      "status": "personal robotics build",
+      "short_description": "Quadruped motion work focused on inverse kinematics, leg movement, control logic, and practical actuation.",
+      "resume_bullet": "Built inverse-kinematics motion logic for stable leg movement and practical actuation."
+    },
+    {
+      "name": "Schooling-Era Robotics Projects",
+      "repo_url": null,
+      "category": ["embedded", "robotics", "prototyping"],
+      "tech_stack": ["Arduino", "sensors", "motor drivers", "wiring", "debugging"],
+      "impact_level": "supporting",
+      "resume_priority": 5,
+      "status": "early project history",
+      "short_description": "Multiple small robotics and embedded builds from schooling, mainly using Arduino for early prototyping and debugging.",
+      "resume_bullet": "Completed numerous small robotics and embedded builds during schooling; Arduino was used mainly in this phase for early prototyping, control experiments, wiring, and debugging."
+    }
+  ]
+}
