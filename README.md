@@ -6,7 +6,9 @@ It stores the latest resume PDF and a curated project catalog. Future resumes sh
 
 ## Latest Resume
 
-- [Mohammed_Nafees_H_Resume.pdf](resumes/Mohammed_Nafees_H_Resume.pdf)
+- [Mohammed_Nafees_H_Resume.pdf](resumes/Mohammed_Nafees_H_Resume.pdf) - latest ATS-focused resume
+- [Mohammed_Nafees_H_Resume_V2_ATS.pdf](resumes/Mohammed_Nafees_H_Resume_V2_ATS.pdf) - V2 ATS copy
+- [Mohammed_Nafees_H_Resume_V2_ATS.md](resumes/Mohammed_Nafees_H_Resume_V2_ATS.md) - editable ATS source
 
 ## Current Top Projects
 
