@@ -19,7 +19,7 @@
       "resume_priority": 1,
       "status": "completed public project",
       "short_description": "Arduino and Python grid-navigation robot with live mapping, frontier exploration, obstacle sensing, saved map output, and A* route planning.",
-      "resume_bullet": "Built a grid-navigation robot system with live mapping, frontier exploration, IR obstacle sensing, encoder-based movement, saved map output, and A* route planning."
+      "resume_bullet": "Built a 4x4 Arduino-Python autonomous grid-navigation robot with 3 IR obstacle sensors, 60 cm calibrated movement steps, live Tkinter mapping, JSON map export, and A* route planning."
     },
     {
       "name": "FruitVision AI - Fruit Quality Detector for SMS",
@@ -30,7 +30,7 @@
       "resume_priority": 2,
       "status": "completed public project",
       "short_description": "Quality-first fruit grading website that predicts Fresh/Adulterant/Rotten quality, maps A/B/C grades, and displays annotated results.",
-      "resume_bullet": "Built a quality-first fruit grading website that analyzes upload or camera images, predicts Fresh/Adulterant/Rotten quality, maps A/B/C grades, and displays annotated results."
+      "resume_bullet": "Built a quality-first fruit grading web system with upload/camera workflows, YOLOv8x fruit-region detection, a 3-class Keras quality model, A/B/C grade mapping, and annotated result output."
     },
     {
       "name": "AI Image Analyzer",
@@ -41,7 +41,7 @@
       "resume_priority": 3,
       "status": "backend module for larger Visage project",
       "short_description": "Backend image-analysis pipeline for the larger Visage project, combining object detection, privacy-safe face tokens, scene captions, and JSON output.",
-      "resume_bullet": "Built the backend image-analysis pipeline for a larger Visage project, combining object detection, privacy-safe face tokens, BLIP scene captions, and clean JSON output for app integration."
+      "resume_bullet": "Built a 3-stage backend image-analysis pipeline for a larger Visage project with YOLOv8n object detection, 13 allowed object classes, privacy-safe face tokens, BLIP captions, and 3-field JSON output."
     },
     {
       "name": "Quadruped Robot",

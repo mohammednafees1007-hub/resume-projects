@@ -17,4 +17,4 @@ FruitVision AI is a quality-first fruit grading system for SMS. It analyzes uplo
 
 ## Resume Bullet
 
-Built a quality-first fruit grading website that analyzes upload or camera images, predicts Fresh/Adulterant/Rotten quality, maps A/B/C grades, and displays annotated results.
+Built a quality-first fruit grading web system with upload/camera workflows, YOLOv8x fruit-region detection, a 3-class Keras quality model, A/B/C grade mapping, and annotated result output.

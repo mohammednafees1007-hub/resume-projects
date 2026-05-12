@@ -19,4 +19,4 @@ AI Image Analyzer is the backend image-analysis module for the larger Visage pro
 
 ## Resume Bullet
 
-Built the backend image-analysis pipeline for a larger Visage project, combining object detection, privacy-safe face tokens, BLIP scene captions, and clean JSON output for app integration.
+Built a 3-stage backend image-analysis pipeline for a larger Visage project with YOLOv8n object detection, 13 allowed object classes, privacy-safe face tokens, BLIP captions, and 3-field JSON output.

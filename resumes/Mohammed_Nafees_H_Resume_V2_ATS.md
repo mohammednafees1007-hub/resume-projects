@@ -8,7 +8,7 @@ GitHub: https://github.com/mohammednafees1007-hub
 
 ## PROFESSIONAL SUMMARY
 
-B.Tech Robotics & Artificial Intelligence student at SASTRA University, Class of 2028, with hands-on experience in robotics, embedded systems, computer vision, and AI backend development. Built an Arduino-Python autonomous navigation robot, a FastAPI/Next.js fruit quality grading system, and a YOLO/OpenCV/BLIP image-analysis backend for a larger Visage project. Skilled in ROS 2, robotics controls, Raspberry Pi, Pi Camera, OpenCV, Python, C/C++, Arduino, Linux, sensors, encoders, hardware bring-up, and model integration.
+B.Tech Robotics & Artificial Intelligence student at SASTRA University, Class of 2028, with hands-on experience in robotics, embedded systems, computer vision, and AI backend development. Built a 4x4 Arduino-Python autonomous navigation robot, a 3-class FastAPI/Next.js fruit quality grading system, and a 3-stage YOLO/OpenCV/BLIP image-analysis backend for a larger Visage project. Skilled in ROS 2, robotics controls, Raspberry Pi, Pi Camera, OpenCV, Python, C/C++, Arduino, Linux, sensors, encoders, hardware bring-up, and model integration.
 
 ## EDUCATION
 
@@ -36,17 +36,17 @@ Project details withheld due to signed confidentiality / NDA obligations.
 Hadi Al Hajatron | Arduino, Python, Tkinter, IR Sensors, Encoders, A* Path Planning
 GitHub: https://github.com/mohammednafees1007-hub/Hadi-Al-Hajatron
 
-- Built an Arduino-Python autonomous grid-navigation robot with live mapping GUI, frontier exploration, IR obstacle sensing, encoder-based movement, JSON map export, and A* route planning.
+- Built a 4x4 Arduino-Python autonomous grid-navigation robot with 3 IR obstacle sensors, 60 cm calibrated movement steps, live Tkinter mapping, JSON map export, and A* route planning.
 
 FruitVision AI - Fruit Quality Detector for SMS | FastAPI, YOLOv8x, Keras, CLIP, Next.js
 GitHub: https://github.com/mohammednafees1007-hub/fruit-quality-detector-for-sms
 
-- Built a quality-first fruit grading web system that accepts upload/camera images, detects fruit regions, predicts Fresh/Adulterant/Rotten quality, maps A/B/C grades, and displays annotated results.
+- Built a quality-first fruit grading web system with upload/camera workflows, YOLOv8x fruit-region detection, a 3-class Keras quality model, A/B/C grade mapping, and annotated result output.
 
 AI Image Analyzer | Python, YOLOv8n, OpenCV, BLIP, Transformers
 GitHub: https://github.com/mohammednafees1007-hub/ai-image-analyzer
 
-- Built the backend image-analysis pipeline for a larger Visage project with YOLO object detection, allowed-class filtering, privacy-safe face tokens, BLIP scene captions, and clean JSON output.
+- Built a 3-stage backend image-analysis pipeline for a larger Visage project with YOLOv8n object detection, 13 allowed object classes, privacy-safe face tokens, BLIP captions, and 3-field JSON output.
 
 Quadruped Robot | Inverse Kinematics, Robotics Controls, Embedded Integration
 

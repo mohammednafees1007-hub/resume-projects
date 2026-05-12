@@ -17,4 +17,4 @@ Hadi Al Hajatron is a robotics project combining Arduino firmware, Python deskto
 
 ## Resume Bullet
 
-Built a grid-navigation robot system with live mapping, frontier exploration, IR obstacle sensing, encoder-based movement, saved map output, and A* route planning.
+Built a 4x4 Arduino-Python autonomous grid-navigation robot with 3 IR obstacle sensors, 60 cm calibrated movement steps, live Tkinter mapping, JSON map export, and A* route planning.
