@@ -2,13 +2,13 @@
 
 Robotics Engineering / Robotics Software / Embedded Robotics Intern
 
-Phone: 9629461267 | Email: mohammednafees1007@gmail.com | Location: Kumbakonam, Tamil Nadu, India
+Phone: +91 962-946-1267 | Email: mohammednafees1007@gmail.com | Location: Kumbakonam, Tamil Nadu, India
 LinkedIn: https://www.linkedin.com/in/mohammed-nafees-h-7b3377306
 GitHub: https://github.com/mohammednafees1007-hub
 
 ## PROFESSIONAL SUMMARY
 
-B.Tech Robotics & Artificial Intelligence student at SASTRA University, Class of 2028, targeting robotics engineering, robotics software, and embedded robotics internships. Hands-on experience across ROS 2 workflows, Python/C++ robotics programming, embedded hardware, sensors, motor control, computer vision, and AI backend pipelines. Built a 4x4 Arduino-Python autonomous navigation robot, a 3-class fruit quality grading system, and a 3-stage YOLO/OpenCV/BLIP image-analysis backend for a larger Visage project.
+B.Tech Robotics & Artificial Intelligence student at SASTRA University, Class of 2028, targeting robotics engineering, robotics software, and embedded robotics internships. Hands-on experience across ROS 2 workflows, Python/C++ robotics programming, embedded hardware, sensors, motor control, computer vision, and AI backend pipelines. Engineered a 4x4 Arduino-Python autonomous navigation robot, a 3-class fruit quality grading system, and a 3-stage YOLO/OpenCV/BLIP image-analysis backend for a larger Visage project.
 
 ## EDUCATION
 
@@ -25,37 +25,36 @@ SASTRA Deemed University | B.Tech, Robotics & Artificial Intelligence | Aug 2024
 
 ## EXPERIENCE
 
-Confidential Industrial Robotics Project | Robotics Engineering Contributor | ROS 2, Controls, Embedded Integration
-Project details withheld due to signed confidentiality / NDA obligations.
+Industrial Robotics Engineering Project | Robotics Engineering Contributor | ROS 2, Controls, Embedded Integration
 
-- Support ROS 2 based robotics workflows, controls-oriented development, embedded integration, sensor/actuator evaluation, and hardware coordination under professional confidentiality constraints.
+- Contribute to ROS 2 based robotics workflows, controls-oriented development, embedded integration, sensor/actuator evaluation, and hardware coordination under professional constraints.
 - Coordinate component identification, evaluation, and procurement support for a project hardware budget of approximately Rs. 10 lakh.
 - Work across robotics software, electronics, and mechanical constraints for deployment-oriented industrial robotics tasks.
 
 ## PROJECTS
 
-Hadi Al Hajatron | Arduino, Python, Tkinter, IR Sensors, Encoders, A* Path Planning
+Hadi Al Hajatron | Arduino, Python, IR Sensors, Encoders, A* Path Planning
 GitHub: https://github.com/mohammednafees1007-hub/Hadi-Al-Hajatron
 
-- Built a 4x4 Arduino-Python autonomous grid-navigation robot with 3 IR obstacle sensors, 60 cm calibrated movement steps, live Tkinter mapping, JSON map export, and A* route planning.
+- Engineered a 4x4 Arduino-Python autonomous grid-navigation robot with 3 IR obstacle sensors, 60 cm calibrated movement steps, live mapping, map export, and A* route planning.
 
-FruitVision AI - Fruit Quality Detector for SMS | FastAPI, YOLOv8x, Keras, CLIP, Next.js
+FruitVision AI - Fruit Quality Detector for SMS | YOLOv8x, Keras, CLIP, OpenCV
 GitHub: https://github.com/mohammednafees1007-hub/fruit-quality-detector-for-sms
 
-- Built a quality-first fruit grading web system with upload/camera workflows, YOLOv8x fruit-region detection, a 3-class Keras quality model, A/B/C grade mapping, and annotated result output.
+- Developed a quality-first fruit grading system with image input workflows, YOLOv8x fruit-region detection, a 3-class Keras quality model, A/B/C grade mapping, and annotated result output.
 
 AI Image Analyzer | Python, YOLOv8n, OpenCV, BLIP, Transformers
 GitHub: https://github.com/mohammednafees1007-hub/ai-image-analyzer
 
-- Built a 3-stage backend image-analysis pipeline for a larger Visage project with YOLOv8n object detection, 13 allowed object classes, privacy-safe face tokens, BLIP captions, and 3-field JSON output.
+- Created a 3-stage backend image-analysis pipeline for a larger Visage project with YOLOv8n object detection, 13 allowed object classes, privacy-safe face tokens, BLIP captions, and structured app-ready output.
 
 Quadruped Robot | Inverse Kinematics, Robotics Controls, Embedded Integration
 
-- Built inverse-kinematics motion logic for leg movement, connecting control theory with practical actuation for stable quadruped locomotion.
+- Implemented inverse-kinematics motion logic for leg movement, connecting control theory with practical actuation for stable quadruped locomotion.
 
 Schooling-Era Robotics Projects | Arduino, Sensors, Motor Drivers
 
-- Completed early Arduino robotics prototypes involving sensors, motor drivers, wiring, control experiments, and debugging.
+- Prototyped early Arduino robotics systems involving sensors, motor drivers, wiring, control experiments, and debugging.
 
 ## LEADERSHIP AND INVOLVEMENT
 
