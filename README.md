@@ -6,7 +6,11 @@ It stores the latest resume PDF and a curated project catalog. Future resumes sh
 
 ## Latest Resume
 
-- [Mohammed_Nafees_H_Resume.pdf](resumes/Mohammed_Nafees_H_Resume.pdf) - latest ATS-focused resume
+- [Mohammed_Nafees_H_Resume.pdf](resumes/Mohammed_Nafees_H_Resume.pdf) - latest master ATS resume
+- [Mohammed_Nafees_H_Master_ATS.docx](resumes/Mohammed_Nafees_H_Master_ATS.docx) - ATS-friendly Word version
+- [Mohammed_Nafees_H_Master_ATS.pdf](resumes/Mohammed_Nafees_H_Master_ATS.pdf) - ATS-friendly PDF version
+- [Mohammed_Nafees_H_Master_ATS.txt](resumes/Mohammed_Nafees_H_Master_ATS.txt) - plain text parser copy
+- [Mohammed_Nafees_H_Master_ATS.md](resumes/Mohammed_Nafees_H_Master_ATS.md) - editable master source
 - [Mohammed_Nafees_H_Resume_V2_ATS.pdf](resumes/Mohammed_Nafees_H_Resume_V2_ATS.pdf) - V2 ATS copy
 - [Mohammed_Nafees_H_Resume_V2_ATS.md](resumes/Mohammed_Nafees_H_Resume_V2_ATS.md) - editable ATS source
 
